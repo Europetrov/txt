@@ -1,0 +1,5 @@
+Name - John
+Age - 33
+Animals - 1
+Salary - 1$
+
